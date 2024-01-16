@@ -53,7 +53,7 @@ a {
 .airplane-scroll-timeline {
     position: relative;
     height: 4305px;
-    border: 10px solid rgb(98, 127, 223);
+/*     border: 10px solid rgb(98, 127, 223); */
     box-sizing: border-box;
     margin: 200px 0 300px;
 }
