@@ -14,7 +14,7 @@ gsap.to(airplane,{
         start: "top top",
         end: "bottom 90%",
         scrub: true,
-        markers: true,
+        // markers: true,
         onUpdate: animationUpdate,
     }
 })
